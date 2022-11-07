@@ -1,4 +1,4 @@
-# Where can I find code for the Eco Currency?
+# Where can I find the Eco Currency?
 
 While the Eco Association supports the ongoing growth and development of the Eco Currency and the broader Ecosystem around it, the [Helix Foundation](https://github.com/helix-foundation) supported the launch of the Currency and its Github organization hosts much of Eco's codebase.
 
